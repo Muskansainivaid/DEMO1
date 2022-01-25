@@ -1,7 +1,7 @@
 public class Complex{
     private int real;
     private int imaginary;
-}
+
 public Complex(){
 
 }
@@ -36,3 +36,4 @@ public Complex(int real,int imaginary){
     public void setImaginary(int imaginary) {
         this.imaginary = imaginary;
     }
+}
